@@ -1,0 +1,123 @@
+---
+title: "Publications"
+description: "Selected publications by Serge Garcia"
+---
+
+::: {.page-title}
+# Publications
+
+I have published **43 articles in peer-reviewed journals** since 2001, together with book chapters, policy-oriented publications, reports and working papers. Below is a selection of recent and representative work.
+:::
+
+<div class="actions">
+<a class="btn-main" href="https://www.beta-economics.fr/annuaire/313/garcia_serge/publications/">Full list on BETA</a>
+<a class="btn-ghost" href="https://orcid.org/0000-0001-5161-0085">ORCID</a>
+</div>
+
+## Recent publications
+
+::: {.publication}
+<div class="year">2026 · Agricultural Economics 57(1), e70076</div>
+<div class="title">Integrating Soil Natural Capital Into Production Frontiers of Ecosystem Services in Agriculture</div>
+Toho Hien, **Serge Garcia**, Christophe Schwartz.  
+[DOI](https://doi.org/10.1111/agec.70076)
+:::
+
+::: {.publication}
+<div class="year">2025 · European Review of Agricultural Economics 52(5), 1283–1333</div>
+<div class="title">Assessing the Impact of Payments for Environmental Services on a Bioeconomic Supply Chain Equilibrium</div>
+Arnaud Dragicevic, Jean-Christophe Pereau, **Serge Garcia**.  
+[DOI](https://doi.org/10.1093/erae/jbaf031)
+:::
+
+::: {.publication}
+<div class="year">2025 · International Review of Law and Economics 84, 106303</div>
+<div class="title">Inter-municipal cooperation in drinking water supply: Trade-offs between transaction costs, efficiency and service quality</div>
+Mehdi Guelmamen, **Serge Garcia**, Alexandre Mayol.  
+[DOI](https://doi.org/10.1016/j.irle.2025.106303)
+:::
+
+::: {.publication}
+<div class="year">2025 · Environmental Science & Policy 169, 104088</div>
+<div class="title">From soil sciences to soil economics: A cross-analysis of natural capital and soil ecosystem service provision</div>
+Toho Hien, Christophe Schwartz, **Serge Garcia**.  
+[DOI](https://doi.org/10.1016/j.envsci.2025.104088)
+:::
+
+::: {.publication}
+<div class="year">2025 · Journal of Environmental Management 375, 124048</div>
+<div class="title">Are visitors, biodiversity or timber production better for nature conservation? Findings from an econometric analysis of the management costs of protected areas in Serbia</div>
+Nikola B. Jovanović, **Serge Garcia**, Ljiljana Keča.  
+[DOI](https://doi.org/10.1016/j.jenvman.2025.124048)
+:::
+
+::: {.publication}
+<div class="year">2024 · Revue d’Économie Politique 134(5), 739–770</div>
+<div class="title">Estimating non-use values of improved water quality and biodiversity from a discrete choice experiment on watershed protection measures</div>
+Tristan Amiri, Jens Abildtrup, **Serge Garcia**.  
+[DOI](https://doi.org/10.3917/redp.345.0739)
+:::
+
+## Forests, biodiversity and ecosystem services
+
+::: {.publication}
+<div class="year">2022 · Canadian Journal of Forest Research 52(12), 1527–1542</div>
+<div class="title">Cost-effectiveness of Natura 2000 forest contracts for biodiversity conservation</div>
+Seyed Mahdi Heshmatol Vaezin, Damien Marage, **Serge Garcia**.
+:::
+
+::: {.publication}
+<div class="year">2021 · Environmental Modeling & Assessment 26(4), 591–608</div>
+<div class="title">Modelling the Choice Between Multiple-Use vs. Specialised Forest Management and its Impact on Forest Management Costs</div>
+**Serge Garcia**, Claudio Petucco, Bo Jellesmark Thorsen, Suzanne Elizabeth Vedel.
+:::
+
+::: {.publication}
+<div class="year">2018 · Annals of Forest Science 75(2), 53</div>
+<div class="title">How does economic research contribute to the management of forest ecosystem services?</div>
+**Serge Garcia**, Jens Abildtrup, Anne Stenger.
+:::
+
+::: {.publication}
+<div class="year">2015 · Ecological Economics 119, 197–208</div>
+<div class="title">Assessing the efficiency of a biodiversity conservation policy: A bio-econometric analysis of Natura 2000 contracts in forest</div>
+Emeline Hily, **Serge Garcia**, Anne Stenger, Gengyang Tu.
+:::
+
+::: {.publication}
+<div class="year">2013 · Ecological Economics 92, 67–77</div>
+<div class="title">Spatial preference heterogeneity in forest recreation</div>
+Jens Abildtrup, **Serge Garcia**, Soren B. Olsen, Anne Stenger.
+:::
+
+## Water, regulation and public services
+
+::: {.publication}
+<div class="year">2013 · Journal of Environmental Management 126, 113–121</div>
+<div class="title">Land use impact on water quality: Valuing forest services in terms of the water supply sector</div>
+Julien Fiquepron, **Serge Garcia**, Anne Stenger.
+:::
+
+::: {.publication}
+<div class="year">2007 · International Journal of Industrial Organization 25(4), 791–820</div>
+<div class="title">Measuring economies of vertical integration in network industries: An application to the water sector</div>
+**Serge Garcia**, Michel Moreaux, Arnaud Reynaud.
+:::
+
+::: {.publication}
+<div class="year">2004 · Resource and Energy Economics 26(1), 1–25</div>
+<div class="title">Estimating the benefits of efficient water pricing in France</div>
+**Serge Garcia**, Arnaud Reynaud.
+:::
+
+::: {.publication}
+<div class="year">2001 · Journal of Productivity Analysis 16(1), 5–29</div>
+<div class="title">The structure of municipal water supply costs: Application to a panel of French local communities</div>
+**Serge Garcia**, Alban Thomas.
+:::
+
+## Working papers and knowledge transfer
+
+Current working papers include research on soil natural capital, flood-risk information and residential choice, sustainable payments for environmental services, and the role of motivations and peer effects in afforestation decisions.
+
+I also contribute regularly to policy-oriented publications and reports designed to make research findings accessible to public authorities, practitioners and stakeholders.

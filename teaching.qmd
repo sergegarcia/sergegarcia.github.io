@@ -1,0 +1,45 @@
+---
+title: "Teaching & Supervision"
+description: "Teaching and PhD supervision"
+---
+
+::: {.page-title}
+# Teaching & Supervision
+
+My teaching is closely connected to my research in applied econometrics, environmental economics and natural resource management.
+:::
+
+## Current teaching
+
+::: {.grid-2}
+::: {.card}
+### Microeconometrics
+University of Lorraine · Master 2 · since 2019
+:::
+::: {.card}
+### Valuation of environmental goods and services
+University of Lorraine · Master 2 · since 2018
+:::
+::: {.card}
+### Sustainable management of natural resources and ecosystems
+University of Lorraine · Master 2 · since 2018
+:::
+::: {.card}
+### Econometrics of qualitative dependent variables
+University of Franche-Comté · Master 1 · since 2012
+:::
+:::
+
+## Doctoral training
+
+I have taught doctoral modules since 2009, including panel-data econometrics, spatial econometrics, discrete choice models and applied econometric methods for environmental and resource economics.
+
+## PhD supervision
+
+I have supervised or co-supervised **11 completed PhD theses**. Topics include forest economics, biodiversity conservation, environmental valuation, water, natural risks, protected areas, international trade and natural capital.
+
+One PhD thesis was ongoing at the time of my 2026 CV.
+
+## Research training
+
+My involvement in training also includes Master’s theses, doctoral committees and support to early-career researchers. I aim to connect methodological rigour with real empirical questions and to expose students to reproducible and open-science practices whenever possible.

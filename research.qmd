@@ -1,0 +1,55 @@
+---
+title: "Research"
+description: "Research agenda and methods of Serge Garcia"
+---
+
+::: {.page-title}
+# Research
+
+I am an environmental and natural resource economist. My work combines **microeconomics**, **applied econometrics** and policy analysis to study the management of socio-ecological systems, with forests as my main field of application.
+:::
+
+## Research agenda
+
+My current research is organised around three closely connected questions.
+
+### 1. How should ecosystem services and natural capital be valued?
+
+I study the economic value of ecosystem services, biodiversity and natural capital, including both market and non-market dimensions. This includes stated-preference methods, discrete choice experiments, spatial valuation, and the integration of natural capital into production and cost functions.
+
+### 2. How do resource users and managers make decisions?
+
+A second strand focuses on the behaviour of forest owners, managers, citizens and users. I analyse heterogeneity in preferences and costs, social interactions, risk and information, and the spatial and temporal dimensions of environmental decisions.
+
+### 3. Which institutions and economic instruments can improve environmental outcomes?
+
+I study the design and performance of environmental policies and contracts, including payments for environmental services, conservation agreements, incentive mechanisms and coordination devices. A central question is how public policy can account for heterogeneous actors while responding to complex ecological objectives.
+
+## Main fields of application
+
+### Forests, biodiversity and ecosystem services
+
+A large share of my research concerns multifunctional forest management: biodiversity conservation, recreation, water protection, private forest-owner behaviour, management costs, Natura 2000 contracts and the joint production of ecosystem services.
+
+### Water and environmental services
+
+My work on water spans industrial organisation, public economics and environmental economics: drinking-water supply costs, pricing and organisation, watershed protection, water quality, environmental services and user preferences.
+
+### Natural capital and production
+
+More recent work examines how natural capital affects production possibilities and variable input requirements, notably through research on soil natural capital and ecosystem-service production in agriculture.
+
+## Methods
+
+<span class="tag">Applied microeconomics</span>
+<span class="tag">Panel-data econometrics</span>
+<span class="tag">Discrete choice models</span>
+<span class="tag">Spatial econometrics</span>
+<span class="tag">Non-market valuation</span>
+<span class="tag">Production & cost functions</span>
+<span class="tag">Surveys & experiments</span>
+<span class="tag">Contracts & incentives</span>
+
+## A socio-ecological systems perspective
+
+My current agenda increasingly frames forest issues through the economics of **socio-ecological systems**. This perspective links ecological states and dynamics with economic behaviour, institutions and public policy. It also motivates interdisciplinary work with ecologists, soil scientists and legal scholars, and the development of data infrastructures able to connect socio-economic, ecological and spatial information.

@@ -1,0 +1,66 @@
+---
+title: "Projects & Policy Impact"
+description: "Research projects, scientific leadership and public policy expertise"
+---
+
+::: {.page-title}
+# Projects & Policy Impact
+
+My activities combine academic research, interdisciplinary programme building, data infrastructures and socio-economic expertise for public decision-making.
+:::
+
+## Current projects and infrastructures
+
+### PERCEVAL {#perceval}
+
+**Perceptions and valuation of forest ecosystem services · TETRAE INRAE–Région Grand Est · Coordinator**
+
+PERCEVAL investigates how forest ecosystem services can be better valued and supported in practice. The project combines three perspectives: the potential supply of ecosystem services by forest owners, citizens’ preferences, and valuation mechanisms able to connect ecosystem-service provision, social demand and financing.
+
+The project mobilises owner surveys, citizen experiments and territorial databases, and explores instruments such as payments for environmental services, conservation auctions, contracts and coordination mechanisms.
+
+### OLEF {#olef}
+
+**Observatory for the Economy of the Forest · Scientific Director**
+
+OLEF is a research infrastructure dedicated to producing, organising and documenting data for forest economics. Its purpose is to improve the empirical basis for analysing forest owners, forest territories, markets, ecosystem services and public policies.
+
+### ARTEMIS
+
+**Interdisciplinary programme on forest socio-ecological systems · Executive Board**
+
+Within ARTEMIS, I contribute to the structuring of interdisciplinary research on forests and co-lead work on economic and legal instruments for sustainable, multifunctional and climate-resilient forest management.
+
+### LEX-FOR-PES
+
+**Legal and contractual innovation for forest payments for environmental services · Principal Investigator · 2026–2027**
+
+LEX-FOR-PES combines economics, private and public law, and ethics to design forest PES contracts that are both legally robust and economically effective. The project examines conditional payments, performance-based obligations and contractual incentives adapted to forest-management constraints.
+
+### INRAE Collective Scientific Assessment — Forest Diversification
+
+**Co-leader**
+
+I co-lead the collective scientific assessment on forest diversification, which evaluates the effects of diversification strategies on forest resilience, ecosystem services and the forest-based sector. My contribution focuses particularly on the social sciences and the socio-ecological framing of diversification choices.
+
+## Expertise and public policy {#expertise}
+
+### ANSES
+
+I have been an expert in socio-economic analysis at the **French Agency for Food, Environmental and Occupational Health & Safety (ANSES)** since 2022. This work contributes to the development and application of transparent socio-economic assessment methods for public expertise.
+
+### From research to decision support
+
+My policy-engagement activities build directly on my research on ecosystem services and resource management. They include collective scientific assessments, work with ministries and public agencies, partnerships with forest and territorial actors, and research designed to inform concrete management choices.
+
+## Scientific leadership
+
+- **President, FAERE** — French Association of Environmental and Resource Economists, since 2023.
+- **Scientific Director, OLEF**, since 2020.
+- **Executive Board, ARTEMIS**, interdisciplinary programme on forest socio-ecological systems.
+- **Associate Editor, Annals of Forest Science**, since 2025.
+- Former **Director of the Laboratory of Forest Economics (LEF)** and **Deputy Director of BETA**.
+
+## Selected previous projects
+
+My previous research includes work on payments for forest-water services (COST Action PESFOR-W), biodiversity and Natura 2000, forest-sector adaptation, land use and water protection, residential choices under flood risk, and the economic valuation of environmental services on the Vittel watershed.

@@ -1,0 +1,132 @@
+---
+title: "Serge Garcia"
+page-layout: full
+title-block-style: none
+---
+
+::: {.hero}
+::: {}
+<div class="eyebrow">Environmental & natural resource economics · Applied econometrics</div>
+
+# Serge Garcia
+
+<div class="lead"><strong>Senior Researcher at INRAE</strong> and member of BETA in Nancy. I study environmental and natural resource management through microeconomic theory and applied econometrics, with a particular focus on forests, ecosystem services, biodiversity and water.</div>
+
+<div class="actions">
+<a class="btn-main" href="research.html">Research</a>
+<a class="btn-ghost" href="publications.html">Publications</a>
+<a class="btn-ghost" href="assets/Serge-Garcia-CV-2026.pdf">CV (PDF)</a>
+</div>
+:::
+
+::: {}
+<img class="hero-photo" alt="Serge Garcia" src="https://beta.u-strasbg.fr/Photos/Photo%20Moi%2004-01-2024.png">
+:::
+:::
+
+<div class="home-intro">
+My research asks how economic analysis can help understand and govern <strong>socio-ecological systems</strong>. I am especially interested in how private decisions, ecosystem dynamics and public policy interact, and in the design of instruments that can reconcile environmental objectives with heterogeneous behaviours and incentives.
+</div>
+
+## Research
+
+::: {.research-lines}
+::: {.research-line}
+<div class="line-number">01</div>
+<div>
+### Valuing ecosystems and natural capital
+Economic valuation of ecosystem services and biodiversity, non-market preferences, and the role of natural capital in production and welfare.
+</div>
+:::
+
+::: {.research-line}
+<div class="line-number">02</div>
+<div>
+### Understanding behaviour and heterogeneity
+Decisions by forest owners, managers, citizens and users; discrete choices, social interactions, risk, information and spatial heterogeneity.
+</div>
+:::
+
+::: {.research-line}
+<div class="line-number">03</div>
+<div>
+### Designing environmental policies and incentives
+Payments for environmental services, contracts, conservation mechanisms and public policies for sustainable and multifunctional resource management.
+</div>
+:::
+:::
+
+[Explore my research →](research.qmd)
+
+## Current scientific leadership & policy engagement
+
+::: {.grid-2}
+::: {.card .project-card}
+<div class="kicker">Scientific community</div>
+### FAERE
+President of the **French Association of Environmental and Resource Economists** since 2023.
+:::
+
+::: {.card .project-card}
+<div class="kicker">Forest socio-ecological systems</div>
+### OLEF & ARTEMIS
+Scientific Director of the **Observatory for the Economy of the Forest (OLEF)** and member of the executive board of the interdisciplinary **ARTEMIS** programme.
+:::
+
+::: {.card .project-card}
+<div class="kicker">Research & public policy</div>
+### PERCEVAL
+Coordinator of the TETRAE project on the supply, social demand and valuation mechanisms for forest ecosystem services in Grand Est.
+:::
+
+::: {.card .project-card}
+<div class="kicker">Collective expertise</div>
+### Forest diversification & ANSES
+Co-leader of the INRAE collective scientific assessment on **forest diversification** and expert in socio-economic analysis at **ANSES**.
+:::
+:::
+
+[Projects and policy impact →](projects.qmd)
+
+## Selected recent publications
+
+::: {.publication}
+<div class="year">2026 · Agricultural Economics</div>
+<div class="title">Integrating Soil Natural Capital Into Production Frontiers of Ecosystem Services in Agriculture</div>
+Toho Hien, **Serge Garcia** & Christophe Schwartz. [DOI](https://doi.org/10.1111/agec.70076)
+:::
+
+::: {.publication}
+<div class="year">2025 · European Review of Agricultural Economics</div>
+<div class="title">Assessing the Impact of Payments for Environmental Services on a Bioeconomic Supply Chain Equilibrium</div>
+Arnaud Dragicevic, Jean-Christophe Pereau & **Serge Garcia**. [DOI](https://doi.org/10.1093/erae/jbaf031)
+:::
+
+::: {.publication}
+<div class="year">2025 · International Review of Law and Economics</div>
+<div class="title">Inter-municipal cooperation in drinking water supply: Trade-offs between transaction costs, efficiency and service quality</div>
+Mehdi Guelmamen, **Serge Garcia** & Alexandre Mayol. [DOI](https://doi.org/10.1016/j.irle.2025.106303)
+:::
+
+[All selected publications →](publications.qmd)
+
+## At a glance
+
+::: {.grid-4}
+::: {.card .stat}
+<strong>43</strong>
+peer-reviewed journal articles
+:::
+::: {.card .stat}
+<strong>25</strong>
+h-index (Google Scholar, Aug. 2026)
+:::
+::: {.card .stat}
+<strong>11</strong>
+completed PhD theses supervised or co-supervised
+:::
+::: {.card .stat}
+<strong>DR1</strong>
+INRAE Research Director, since 2025
+:::
+:::
