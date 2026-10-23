@@ -1,0 +1,56 @@
+---
+title: "Recherche"
+description: "Axes de recherche de Serge Garcia"
+---
+
+::: {.page-title}
+# Recherche
+
+Mes travaux se situent au croisement de l’**économie de l’environnement et des ressources naturelles**, de la **microéconomie** et de l’**économétrie appliquée**. Ils portent principalement sur les forêts, les services écosystémiques, la biodiversité, l’eau et, plus récemment, le capital naturel des sols.
+:::
+
+## Trois questions de recherche
+
+::: {.grid-3}
+::: {.card}
+### Quelle valeur pour les écosystèmes ?
+Évaluation des biens et services non marchands, préférences individuelles, arbitrages entre usages et mesure de la contribution des actifs naturels à la production et au bien-être.
+:::
+::: {.card}
+### Comment les acteurs décident-ils ?
+Modélisation des comportements des propriétaires, gestionnaires, citoyens et usagers ; hétérogénéité des préférences, interactions sociales, risques et information.
+:::
+::: {.card}
+### Quels instruments pour agir ?
+Conception et évaluation de politiques environnementales : contrats, paiements pour services environnementaux, incitations, mécanismes de coordination et dispositifs de conservation.
+:::
+:::
+
+## Méthodes
+
+<span class="tag">Microéconomie appliquée</span>
+<span class="tag">Économétrie des données de panel</span>
+<span class="tag">Modèles de choix discrets</span>
+<span class="tag">Économétrie spatiale</span>
+<span class="tag">Évaluation non marchande</span>
+<span class="tag">Économie de la production et des coûts</span>
+<span class="tag">Expériences et enquêtes</span>
+<span class="tag">Modélisation des contrats et incitations</span>
+
+## Domaines d'application
+
+### Forêts et biodiversité
+
+Une part importante de mes travaux analyse les choix de gestion forestière et les politiques de conservation : comportement des propriétaires privés, biodiversité, récréation, Natura 2000, fourniture de services écosystémiques et adaptation des instruments aux caractéristiques des forêts et des gestionnaires.
+
+### Eau
+
+Mes recherches sur l’eau combinent économie industrielle, économie publique et économie de l’environnement : coûts de fourniture de l’eau potable, organisation des services, gouvernance, qualité de l’eau, protection des bassins versants et préférences des usagers.
+
+### Services écosystémiques et capital naturel
+
+Je m’intéresse à la mesure économique des services écosystémiques, à leurs complémentarités et arbitrages, ainsi qu’à l’intégration du capital naturel dans les fonctions de production et de coût.
+
+### Politiques publiques environnementales
+
+Ces travaux visent à identifier les conditions dans lesquelles les instruments économiques et contractuels peuvent aligner décisions privées et objectifs collectifs de conservation, de qualité environnementale et de gestion durable des ressources.

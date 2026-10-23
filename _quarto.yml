@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Serge Garcia"
+  description: "Economiste de l'environnement et des ressources naturelles | Directeur de recherche INRAE, BETA"
+  navbar:
+    background: white
+    left:
+      - text: "Accueil"
+        href: index.qmd
+      - text: "Recherche"
+        href: recherche.qmd
+      - text: "Projets & expertise"
+        href: projets.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Enseignement"
+        href: enseignement.qmd
+      - text: "CV"
+        href: cv.qmd
+    right:
+      - icon: envelope
+        href: mailto:serge.garcia@inrae.fr
+      - icon: linkedin
+        href: https://www.linkedin.com/in/serge-garcia-0675323a
+      - icon: person-badge
+        href: https://orcid.org/0000-0001-5161-0085
+  page-footer:
+    left: "© 2026 Serge Garcia"
+    center: "Directeur de recherche INRAE · BETA"
+    right:
+      - text: "BETA"
+        href: https://www.beta-economics.fr/annuaire/313/garcia_serge/
+      - text: "ORCID"
+        href: https://orcid.org/0000-0001-5161-0085
+  search: true
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+
+lang: fr

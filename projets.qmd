@@ -1,0 +1,57 @@
+---
+title: "Projets & expertise"
+description: "Projets, responsabilités scientifiques et expertise"
+---
+
+::: {.page-title}
+# Projets & expertise
+
+Mes activités articulent recherche académique, infrastructures de données, animation scientifique et expertise en appui à la décision publique.
+:::
+
+## PERCEVAL {#perceval}
+
+**Perceptions et valorisation des services écosystémiques en forêt — TETRAE INRAE–Région Grand Est, 2023–2027.**
+
+Coordinateur du projet. PERCEVAL étudie le potentiel d’offre de services écosystémiques par les propriétaires forestiers, les préférences des citoyens et les mécanismes de valorisation susceptibles d’articuler offre, demande sociale et financements. Le projet mobilise enquêtes, expériences et développement de données territoriales.
+
+**Axes :** propriétaires forestiers · préférences citoyennes · paiements pour services environnementaux · enchères de conservation · contrats · données communales forestières.
+
+## OLEF {#olef}
+
+**Observatoire pour l’Économie de la Forêt.** Responsable scientifique depuis 2020.
+
+OLEF structure, produit et valorise des données utiles à l’analyse économique de la forêt. L’objectif est de consolider une infrastructure au service de la recherche, de l’expertise et des acteurs publics et professionnels.
+
+## LEX-FOR-PES
+
+**Legal and contractual innovation for Forest payments for environmental services — ARTEMIS Innovative, 2026–2027.**
+
+Projet interdisciplinaire consacré à la conception de contrats de paiements pour services environnementaux juridiquement robustes et économiquement efficaces en forêt. Il combine analyse juridique comparée, modélisation économique, cas empiriques et réflexion éthique.
+
+## FORCONNECT
+
+Coordinateur du projet **FORCONNECT** (ARTEMIS). Le projet analyse les conditions de coordination et de transformation des acteurs, territoires, ressources et filières forestières dans une perspective bioéconomique.
+
+## ARTEMIS
+
+Membre du Bureau exécutif et coordinateur de l’action thématique **Économie et sciences sociales** du programme interdisciplinaire ARTEMIS, dans la continuité du LabEx ARBRE.
+
+## Responsabilités scientifiques
+
+::: {.grid-2}
+::: {.card}
+### FAERE
+Président de la French Association of Environmental and Resource Economists depuis septembre 2023. Membre du bureau exécutif depuis 2021.
+:::
+::: {.card}
+### Édition scientifique
+Associate Editor des **Annals of Forest Science** depuis 2025 et membre de l’Editorial Board de **PCI Forest & Wood Sciences** depuis 2020.
+:::
+:::
+
+## Expertise & appui aux politiques publiques {#expertise}
+
+Membre du **Comité d’experts spécialisé Analyse socio-économique de l’Anses**. Participation à des expertises collectives et travaux interdisciplinaires portant notamment sur les politiques de biodiversité, les forêts, les services écosystémiques et l’évaluation socio-économique.
+
+Je contribue également à l’**Expertise scientifique collective sur la diversification des forêts**, avec un rôle de co-pilotage du volet en sciences humaines et sociales.
