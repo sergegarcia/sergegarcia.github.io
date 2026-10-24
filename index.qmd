@@ -20,7 +20,7 @@ title-block-style: none
 :::
 
 ::: {}
-<img class="hero-photo" alt="Serge Garcia" src="https://beta.u-strasbg.fr/Photos/Photo%20Moi%2004-01-2024.png">
+<img class="hero-photo" alt="Serge Garcia" src="assets/serge-garcia-portrait.png">
 :::
 :::
 
